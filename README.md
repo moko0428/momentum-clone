@@ -7,6 +7,10 @@
 - submit
   - form을 submit할 때 입력값을 받아내기
   - 새로고침 막기 (preventDefault())
+- clock
+  - 날짜, 시간 출력
+- quote
+  - 랜덤 명언 출력
 
 ## 참고자료
 
