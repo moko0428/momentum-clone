@@ -13,6 +13,9 @@
   - 랜덤 명언 출력
 - background
   - 랜덤 배경
+- todo list
+  - todo 삭제버튼
+  - todo 저장하기(localStorage)
 
 ## 참고자료
 
