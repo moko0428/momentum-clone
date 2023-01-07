@@ -17,6 +17,9 @@
   - todo 삭제버튼
   - todo 저장하기(localStorage)
   - localStorage에서 todo 삭제하기
+- 날씨
+  - 현재 위치
+  - 날씨 api 받아오기
 
 ## 참고자료
 
