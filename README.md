@@ -16,6 +16,7 @@
 - todo list
   - todo 삭제버튼
   - todo 저장하기(localStorage)
+  - localStorage에서 todo 삭제하기
 
 ## 참고자료
 
